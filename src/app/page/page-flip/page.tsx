@@ -1,9 +1,9 @@
-import FlipBook from "@/components/PageFlip";
+// import FlipBook from "@/components/PageFlip";
 
 const page = () => {
   return (
     <div>
-      <FlipBook />
+      {/* <FlipBook /> */}
     </div>
   );
 };
